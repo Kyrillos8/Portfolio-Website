@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Expand",
+    "desc": "VTO Built using Node.js, Next.js, MongoDB, S3, EC2",
+    "image": "VTO",
+    "category": "Graduation",
+    "links": {
+      "code": "https://github.com/Kyrillos8/Expand"
+    }
+  },
+  {
+    "name": "Beitlist",
+    "desc": "Real estate buying & selling web application. Built using Laravel, MySQL, Postman, Algorithm, Design Pattern.",
+    "image": "estate",
+    "category": "Laravel",
+    "links": {
+      "code": "https://github.com/Kyrillos8/Beitlist"
+    }
+  },
+  {
+    "name": "Bookstore",
+    "desc": "Spring-boot bookstore app built using Java, SpringBoot, H2, OOP.",
+    "image": "bookstore",
+    "category": "Spring",
+    "links": {
+      "code": "https://github.com/Kyrillos8/Bookstore"
+    }
+  },
+  {
+    "name": "Weatherly forecast",
+    "desc": "Native php app built using Php and weather API integration. Provides weather forecast.",
+    "image": "forecast",
+    "category": "PHP",
+    "links": {
+      "code": "https://github.com/Kyrillos8/weather_forcast_main"
+    }
+  },
+  {
+    "name": "K-Blog",
+    "desc": "A simple Blog web application built using Django, SQLite, OOP.",
+    "image": "blog",
+    "category": "Django",
+    "links": {
+      "code": "https://github.com/Kyrillos8/weblog"
+    }
+  },
+  {
+    "name": "Java <3 C!",
+    "desc": "A simple Java console application that demonstrates the use of JNI (Java Native Interface) to call C functions from Java code built using Java, C, OS.",
+    "image": "Java&C",
+    "category": "Java",
+    "links": {
+      "code": "https://github.com/Kyrillos8/Java-C"
+    }
+  },
+  {
+    "name": "Banking system",
+    "desc": "A Dashboard banking system built using Django, SQLite, Javascript, BootStrap, SOLID.",
+    "image": "banking",
+    "category": "Django",
+    "links": {
+      "code": "https://github.com/Kyrillos8/Web_Banking_System"
+    }
+  },
+  {
+    "name": "Employee Manipulator",
+    "desc": "A simple Java console application that manages employee records using file handling built using Java, Maven, MySQL.",
+    "image": "emp",
+    "category": "Java",
+    "links": {
+      "code": "https://github.com/Kyrillos8/Emp-man-data"
+    }
+  }
+]
